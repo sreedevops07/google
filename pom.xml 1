@@ -1,0 +1,5 @@
+<dependency>
+  <groupId>io.github.qsy7.java.modules.amazon</groupId>
+  <artifactId>api</artifactId>
+  <version>0.1.0</version>
+</dependency>
